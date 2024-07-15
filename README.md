@@ -23,7 +23,7 @@ Java is my go-to language for tackling DSA problems.
 - 📫 How to reach me: **satwikkaushik03@gmail.com**
 - ⚡ Fun fact: I'm a dedicated Linux user.
 
-**`Let's build something amazing together!`**
+Let's build something amazing together!
 
 ## Languages and Frameworks
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
