@@ -31,6 +31,8 @@ I'm always open to discussing innovative projects or how my skills can add value
 - Email: satwikkaushik03@gmail.com
 
 <br>
+<hr>
+<br>
 
 <img align="left" alt="Java" width="50px" src="resources/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="50px" src="resources/kotlin.svg" style="padding-right:10px;" />
