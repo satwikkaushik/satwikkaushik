@@ -1,4 +1,4 @@
-# Hi there, I'm Satwik Kaushik 👋
+<img align="center" src="resources/banner.png" />
 
 ## 🚀 Aspiring Android Developer | Machine Learning Enthusiast
 
